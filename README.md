@@ -16,7 +16,6 @@ Tableau / Power BI dashboards – I learned how to build interactive dashboards 
 
 ## Projects I have completed:
 Excel  – Sales data analysis using PivotTables, charts, and formulas. 
-📄 [Retail Sales Analysis.xlsx](./Retail_Sales_Analysis.xlsx)
 
 Tableau  – Created an interactive dashboard to visualise business data and identify trends.
 
