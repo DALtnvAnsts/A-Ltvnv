@@ -42,7 +42,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 - Analyse total sales by gender.
 - Compare sales across product categories.
@@ -51,7 +51,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 🛠️ Tools Used
+### 🛠️ Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -61,7 +61,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 📈 Analysis Performed
+### 📈 Analysis Performed
 
 - Cleaned and explored the dataset.
 - Created Pivot Tables.
@@ -73,7 +73,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 💡 Key Findings
+### 💡 Key Findings
 
 - Electronics generated the highest total sales (£156,905).
 - Beauty had the lowest total sales (£143,515).
@@ -82,7 +82,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 📂 Project Files
+### 📂 Project Files
 
 - Retail_sales_Analysis.xlsx
 - Source data
@@ -91,7 +91,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 🚀 Skills Demonstrated
+### 🚀 Skills Demonstrated
 
 - Data Analysis
 - Microsoft Excel
@@ -103,7 +103,7 @@ This project analyses retail sales data using Microsoft Excel. The aim was to ex
 
 ---
 
-## 📸 Project Screenshots
+### 📸 Project Screenshots
 
 Additional screenshots are available below.
 
@@ -171,10 +171,9 @@ This Tableau dashboard analyses Spotify music data to explore artist popularity,
 
 ---
 
-# 📊 Dashboard Preview
+### 📸 Project Screenshots
 
-### Spotify Dashboard
-
+Additional screenshots are available below.
 [Dashboard](Spotify.Insights.png)
 
 
