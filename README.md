@@ -344,7 +344,7 @@ Additional screenshots are available below.
 ----
 
 
-# 🐍 Python
+# ⭐ Python
 
 ### 📌 Project Overview
 
