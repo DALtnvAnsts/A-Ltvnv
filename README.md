@@ -174,6 +174,7 @@ This Tableau dashboard analyses Spotify music data to explore artist popularity,
 ### 📸 Project Screenshots
 
 Additional screenshots are available below.
+
 [Dashboard](Spotify.Insights.png)
 
 
