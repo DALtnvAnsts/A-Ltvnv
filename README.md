@@ -395,43 +395,38 @@ This project analyses student performance data using Python, Pandas, Matplotlib 
 
 ---
 
-## 📸 Visualisations
+### 📸 Project Screenshots
 
-### 📊 Distribution of Marks
+Additional screenshots are available below.
 
-![Distribution of Marks](distribution-of-marks.png)
+
+
+[📊 Distribution of Marks](distribution-of-marks.png)
 
 This histogram shows the overall distribution of student marks. Most students achieved scores between 70 and 90, which indicates generally strong performance.
 
 ---
 
-### 👩‍🎓 Marks by Gender
-
-![Marks by Gender](marks-by-gender.png)
+[👩‍🎓 Marks by Gender](marks-by-gender.png)
 
 This scatter plot compares student marks by gender and helps identify differences in performance.
 
 ---
 
-### 📈 Average Marks by Gender
 
-![Average Marks by Gender](average-marks-by-gender.png)
+[📈 Average Marks by Gender](average-marks-by-gender.png)
 
 This bar chart compares average marks by gender, making it easier to understand overall performance differences.
 
 ---
 
-### 🏫 Number of Students in Each Class
-
-![Number of Students in Each Class](student-count-by-class.png)
+[🏫 Number of Students in Each Class](student-count-by-class.png)
 
 This chart shows how many students are in each class.
 
 ---
 
-### 📦 Marks Distribution by Class
-
-![Marks Distribution by Class](marks-distribution-by-class.png)
+[📦 Marks Distribution by Class](marks-distribution-by-class.png)
 
 This box plot shows the spread of marks in each class, including median scores, variation and possible outliers.
 
