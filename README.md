@@ -231,15 +231,6 @@ The aim was to analyse sales performance, compare sales against targets, review 
 
 ---
 
-### 📁 Project Files
-- `AdventureWorks_Dashboard.pbix`
-- `overview-dashboard.png`
-- `sales-target-analysis.png`
-- `profit-analysis.png`
-- `running-sum-analysis.png`
-- `matrix-report.png`
-
----
 
 ### 📸 Project Screenshots
 
