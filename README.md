@@ -26,6 +26,11 @@ SQL – Wrote SQL queries to retrieve, filter, join, and analyse data from multi
 Python – Cleaned and analysed datasets using Pandas and created simple visualisations.
 
 
+---
+
+
+
+
 
 # EXCEL
 
