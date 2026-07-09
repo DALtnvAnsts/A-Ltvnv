@@ -179,7 +179,7 @@ Additional screenshots are available below.
 
 ----
 
-# Power BI
+# ⭐Power BI
 ## 📊 Adventure Works Sales Dashboard (Power BI)
 
 ### Project Overview
