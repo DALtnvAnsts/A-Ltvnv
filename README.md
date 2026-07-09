@@ -333,7 +333,10 @@ This project helped me practise SQL queries for data analysis, including filteri
 
 Additional screenshots are available below.
 
-[MySQLscreenshots](MYSQL)
+[MySQLscreenshots 1 ](MYSQL/country_capital_join.png)
+[MySQLscreenshots 2 ](MYSQL/first_10_countries_query.png)
+[MySQLscreenshots 3 ](MYSQL/highest_life_expectancy_query.png)
+[MySQLscreenshots 4 ](MYSQL/life_expectancy_query.png)
 
 
 
