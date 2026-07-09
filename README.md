@@ -260,7 +260,7 @@ Additional screenshots are available below.
 
 
 
-# ⭐SQL Portfolio
+# ⭐SQL
 
 ### Project Overview
 
