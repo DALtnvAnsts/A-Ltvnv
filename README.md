@@ -241,21 +241,18 @@ The aim was to analyse sales performance, compare sales against targets, review 
 
 ---
 
-### 📷 Dashboard Preview
+### 📸 Project Screenshots
 
-### Overview Dashboard
+Additional screenshots are available below.
+
 [Overview Dashboard](Overview.png)
 
-### Sales Target Analysis
 [Sales Target Analysis](Sales.Performanca.vs.Target.png)
 
-### Profit Analysis
 [Profit Analysis](Profit.Analysis.png)
 
-### Running Sum Analysis
 [Running Sum Analysis](Running.Sum.Analysis.png)
 
-### Matrix Report
 [Matrix Report](Matrix.Report.png)
 
 
