@@ -341,12 +341,135 @@ Additional screenshots are available below.
 
 [MySQL Life expectancy query ](MYSQL/life_expectancy_query.png)
 
+----
 
 
+# 🐍 Python
 
+### 📌 Project Overview
 
+This project analyses student performance data using Python, Pandas, Matplotlib and Seaborn. The aim was to explore the dataset, visualise score distributions and compare student performance across different classes and genders.
 
+---
 
+### 🎯 Objectives
 
+- Import and explore a dataset.
+- Clean and prepare the data.
+- Analyse student marks.
+- Compare results by gender and class.
+- Create clear visualisations to identify patterns.
 
+---
 
+### 🛠️ Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+---
+
+### 💻 Skills Demonstrated
+
+- Data cleaning
+- Data exploration
+- Data visualisation
+- Histogram
+- Scatter plot
+- Bar chart
+- Count plot
+- Box plot
+- Grouping and aggregation
+- Calculating averages
+
+---
+
+### 📂 Project Files
+
+- 📄 [Student Dataset](student(1).csv)
+
+---
+
+## 📸 Visualisations
+
+### 📊 Distribution of Marks
+
+![Distribution of Marks](distribution-of-marks.png)
+
+This histogram shows the overall distribution of student marks. Most students achieved scores between 70 and 90, which indicates generally strong performance.
+
+---
+
+### 👩‍🎓 Marks by Gender
+
+![Marks by Gender](marks-by-gender.png)
+
+This scatter plot compares student marks by gender and helps identify differences in performance.
+
+---
+
+### 📈 Average Marks by Gender
+
+![Average Marks by Gender](average-marks-by-gender.png)
+
+This bar chart compares average marks by gender, making it easier to understand overall performance differences.
+
+---
+
+### 🏫 Number of Students in Each Class
+
+![Number of Students in Each Class](student-count-by-class.png)
+
+This chart shows how many students are in each class.
+
+---
+
+### 📦 Marks Distribution by Class
+
+![Marks Distribution by Class](marks-distribution-by-class.png)
+
+This box plot shows the spread of marks in each class, including median scores, variation and possible outliers.
+
+---
+
+## 💡 Key Findings
+
+- Most students scored between 70 and 90 marks.
+- Student performance was generally consistent across genders.
+- Some classes achieved higher average marks than others.
+- Box plots helped identify variation in marks between different classes.
+- Visualisations made the data easier to understand.
+
+---
+
+## 🚀 What I Learned
+
+Through this project, I strengthened my Python data analysis skills by working with Pandas, Matplotlib and Seaborn. I learned how to clean data, create different chart types, compare groups and communicate insights through data visualisation.
+
+---
+
+## 💻 Example Code
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv("student.csv")
+
+plt.figure(figsize=(10, 6))
+plt.hist(df['mark'], bins=10)
+plt.title('Distribution of Marks')
+plt.xlabel('Marks')
+plt.ylabel('Frequency')
+plt.show()
+
+sns.boxplot(x='class', y='mark', data=df)
+plt.title('Marks Distribution by Class')
+plt.xlabel('Class')
+plt.ylabel('Marks')
+plt.show()
+```
