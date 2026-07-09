@@ -32,7 +32,7 @@ Python – Cleaned and analysed datasets using Pandas and created simple visuali
 
 
 
-# EXCEL
+# ⭐EXCEL
 
 ## 📊 Retail Sales Analysis
 
@@ -110,4 +110,71 @@ Additional screenshots are available below.
 - [📊 Excel Source Data](source-data.png)
 - [📊 Excel Slicers](slicers.png)
 - [📊 Excel Sales Chart](sales-chart.png)
+
+----
+
+# ⭐TABLEAU
+
+## 🎵 Spotify Insights
+
+### 📌 Project Overview
+
+This Tableau dashboard analyses Spotify music data to explore artist popularity, track popularity, genres, and danceability. The dashboard provides interactive visualisations that help identify music trends and compare different artists and genres.
+
+---
+
+### 🎯 Objectives
+
+- Analyse the most popular artists.
+- Compare popularity across music genres.
+- Explore the relationship between popularity and danceability.
+- Identify the most popular tracks.
+- Build an interactive Tableau dashboard.
+
+---
+
+### 🛠 Tools Used
+
+- Tableau
+- Interactive Dashboards
+- Bar Charts
+- Filters
+- Calculated Fields
+- Data Visualisation
+
+---
+
+### 💡 Key Findings
+
+- Pop and Rap are among the most popular genres.
+- Drake is one of the highest-ranked artists by popularity.
+- Some highly popular artists have lower danceability scores.
+- Interactive filters allow users to explore the data in more detail.
+
+---
+
+### 📂 Project Files
+
+- Tableau Workbook (.twbx)
+- Dashboard Screenshot
+
+---
+
+### 🚀 Skills Demonstrated
+
+- Data Analysis
+- Dashboard Design
+- Data Visualisation
+- Trend Analysis
+- Music Data Analytics
+- Storytelling with Data
+
+---
+
+# 📊 Dashboard Preview
+
+### Spotify Dashboard
+
+[Dashboard](Spotify.Insights.png)
+
 
